@@ -36,7 +36,7 @@
 <br>
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <h1>Most Used Languages</h1>
-    <img align="left" src="https://github.com/HusseinAdel7/Employee_Registeration_Using_Laravel_and-Mysql/assets/84356407/29216033-4bed-48d9-99f6-c5774e6d3665" />
+    <img align="left" src="https://drive.google.com/file/d/1g7PaTs34t4zreRji8MjS09y6Vv8B6hs7/view?usp=drive_link" />
 
 
 </div>
