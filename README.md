@@ -16,9 +16,9 @@
 
 - 💬 Ask me about **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at  [Check Them Out ](https://husseinadel7.github.io/huss3del.github.io/)
+- 👨‍💻 All of my projects are available at  [Check Them Out ]([https://husseinadel7.github.io/huss3del.github.io/](https://github.com/mahmoudali-ops?tab=repositories))
 
-- 📝 I regularly write articles on [Check Them Out ](https://husseinadel7.github.io/huss3del.github.io/categories/#blogs)
+- 📝 I regularly write articles on [Check Them Out ](https://husseinadel7.github.io/huss3del.github.io/categories/#blogss)
 
 - 📫 How to reach me **mahmoua487@gmail.com**
 
