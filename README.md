@@ -36,7 +36,7 @@
 <br>
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <h1>Most Used Languages</h1>
-    <img align="left" src="https://drive.google.com/file/d/1g7PaTs34t4zreRji8MjS09y6Vv8B6hs7/view?usp=drive_link" />
+    <img align="left" src="https://private-user-images.githubusercontent.com/84356407/255380666-29216033-4bed-48d9-99f6-c5774e6d3665.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTExODY4MDksIm5iZiI6MTc1MTE4NjUwOSwicGF0aCI6Ii84NDM1NjQwNy8yNTUzODA2NjYtMjkyMTYwMzMtNGJlZC00OGQ5LTk5ZjYtYzU3NzRlNmQzNjY1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjI5VDA4NDE0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRkOGFlNzQzNjYwZTljMDM5Y2FmMzA5ODBjMjAxNjcyYzlkNjdlMmU5NTE3YWJhZWI3NGI3MjdmODZlMzYzMjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.YIRPsa7Pgcw9goVzN_mmtyAiO9uMSGC4Nh32i6AjSqU" />
 
 
 </div>
