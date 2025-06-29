@@ -29,7 +29,7 @@
 <a href="https://www.linkedin.com/in/mahmoud-ali-46b872234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussein-adel-b46783280" height="30" width="40" /></a>
 <a href="https://fb.com/hussein.adel.75641" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hussein.adel.75641" height="30" width="40" /></a>
 <a href="https://www.instagram.com/7ussien.3del/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hussein.adel7" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/hussein-2222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hussein-2222" height="30" width="40" /></a>
+
 </p>
 
 
