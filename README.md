@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at  [Check Them Out ]((https://github.com/mahmoudali-ops?tab=repositories))
+- 👨‍💻 All of my projects are available at  [Check Them Out ](https://github.com/mahmoudali-ops?tab=repositories)
 
 - 📝 I regularly write articles on [Check Them Out ](https://husseinadel7.github.io/huss3del.github.io/categories/#blogss)
 
