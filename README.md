@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **mahmoua487@gmail.com**
 
-- 📄 Know about my experiences ( My CV )==> [Check It Out ](https://drive.google.com/file/d/1g7PaTs34t4zreRji8MjS09y6Vv8B6hs7/view?usp=drive_link)
+- 📄 Know about my experiences ( My CV )==> [Check It Out ](https://drive.google.com/file/d/1MtxsFC7PmU1SmqxXXi0F-21PZERSX2DI/view?usp=drive_link)
 <br>
 <h1 align="left">Connect With Me </h1>
 <p align="left">
