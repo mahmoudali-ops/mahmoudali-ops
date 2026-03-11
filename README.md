@@ -1,151 +1,128 @@
-<div align="center">
-  <!-- ANIMATED HEADER with typing effect and neon glow -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mahmoud+Ali;Full+Stack+.NET+Developer+%F0%9F%92%BB" alt="Typing SVG" />
-  </a>
+<h1 align="center">Hi there, I'm Mahmoud Ali 👋</h1>
+<h3 align="center">Full Stack .NET Developer | Building robust web solutions with ASP.NET Core & Angular</h3>
 
-  <!-- SPACE BACKGROUND (animated via GIF + CSS-friendly stars overlay) -->
-  <div style="position: relative; width: 100%; max-width: 900px; margin: 0 auto; border-radius: 20px; overflow: hidden; box-shadow: 0 0 30px rgba(106, 90, 205, 0.5);">
-    <!-- Deep space animated GIF background -->
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2t1bmI2d3k0Ymd0cHh6ZHp2d3ZqNnN5c2Nma2h3aXl5cHFhM3g2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYEqE4MWgOzAeFO/giphy.gif" alt="space background" style="width:100%; display: block; filter: brightness(0.8) saturate(1.5);" />
-    
-    <!-- Overlay twinkling stars (CSS animated) + planets + shooting stars -->
-    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; pointer-events: none; background: radial-gradient(circle at 20% 40%, rgba(255,255,255,0.15) 1px, transparent 1px), radial-gradient(circle at 80% 70%, rgba(173,216,230,0.2) 2px, transparent 2px); background-size: 200px 200px, 300px 300px; animation: twinkle 4s infinite alternate;"></div>
-    
-    <!-- rotating planets (SVG/CSS) using absolutely positioned elements – we'll simulate with simple divs + orbit animations -->
-    <div style="position: absolute; top: 20%; left: 10%; width: 40px; height: 40px; border-radius: 50%; background: linear-gradient(145deg, #b8860b, #ffd700); box-shadow: 0 0 30px #ffd700; animation: orbit 20s linear infinite;"></div>
-    <div style="position: absolute; bottom: 30%; right: 15%; width: 60px; height: 60px; border-radius: 50%; background: linear-gradient(145deg, #4169e1, #00bfff); box-shadow: 0 0 40px #00bfff; animation: orbitReverse 25s linear infinite;"></div>
-    <div style="position: absolute; top: 60%; left: 30%; width: 30px; height: 30px; border-radius: 50%; background: linear-gradient(145deg, #dc143c, #ff69b4); box-shadow: 0 0 30px #ff69b4; animation: orbit 30s linear infinite;"></div>
-    
-    <!-- nebula clouds (soft glowing) -->
-    <div style="position: absolute; top: 10%; left: 50%; width: 200px; height: 100px; background: radial-gradient(circle, rgba(138,43,226,0.3) 0%, transparent 70%); filter: blur(30px); animation: float 15s ease-in-out infinite;"></div>
-    <div style="position: absolute; bottom: 5%; left: 20%; width: 250px; height: 120px; background: radial-gradient(circle, rgba(0,191,255,0.2) 0%, transparent 70%); filter: blur(40px); animation: float 18s ease-in-out infinite reverse;"></div>
-    
-    <!-- shooting stars (pseudo-elements can't be inline, but we can use spans) -->
-    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-      <span style="position: absolute; top: 15%; left: -10%; width: 150px; height: 2px; background: linear-gradient(90deg, transparent, white, transparent); transform: rotate(20deg); animation: shoot 8s ease-in-out infinite;"></span>
-      <span style="position: absolute; top: 60%; left: -5%; width: 200px; height: 2px; background: linear-gradient(90deg, transparent, #ffdead, transparent); transform: rotate(15deg); animation: shoot 12s ease-in-out infinite 3s;"></span>
-    </div>
-  </div>
-
-  <!-- ANIMATIONS KEYFRAMES (embedded as style) -->
-  <style>
-    @keyframes twinkle {
-      0% { opacity: 0.6; }
-      100% { opacity: 1; }
-    }
-    @keyframes orbit {
-      0% { transform: rotate(0deg) translateX(80px) rotate(0deg); }
-      100% { transform: rotate(360deg) translateX(80px) rotate(-360deg); }
-    }
-    @keyframes orbitReverse {
-      0% { transform: rotate(0deg) translateX(120px) rotate(0deg); }
-      100% { transform: rotate(-360deg) translateX(120px) rotate(360deg); }
-    }
-    @keyframes float {
-      0% { transform: translate(0, 0) scale(1); }
-      50% { transform: translate(20px, -20px) scale(1.1); }
-      100% { transform: translate(0, 0) scale(1); }
-    }
-    @keyframes shoot {
-      0% { left: -10%; top: 20%; opacity: 1; }
-      70% { opacity: 1; }
-      100% { left: 110%; top: 50%; opacity: 0; }
-    }
-    /* progress bar animations */
-    .skill-bar { width: 100%; background-color: #2d2d4a; border-radius: 20px; margin: 8px 0; overflow: hidden; }
-    .skill-fill { height: 20px; border-radius: 20px; background: linear-gradient(90deg, #6a5acd, #00bfff); box-shadow: 0 0 10px #00bfff; width: 0; animation: fillBar 2s ease-out forwards; }
-    @keyframes fillBar { to { width: var(--target); } }
-    /* card hover glow */
-    .project-card:hover { transform: scale(1.02); box-shadow: 0 0 30px #6a5acd; transition: all 0.3s ease; }
-  </style>
-</div>
-
-<!-- ABOUT ME SECTION -->
-<h2 align="center" style="color: #e0e0ff; text-shadow: 0 0 8px #6a5acd;">✨ About Me ✨</h2>
-<p align="center" style="font-size: 1.2rem; background: rgba(10, 10, 30, 0.7); padding: 20px; border-radius: 30px; max-width: 800px; margin: 20px auto; color: #f0f0ff; box-shadow: 0 0 30px #4b0082;">
-  Hello! I'm Mahmoud Ali, a passionate Full Stack .NET Developer 💻.<br>
-  I love building modern, scalable web applications with clean code and best practices 🚀.<br>
-  🌐 Full Stack Development (ASP.NET Core + Angular) | 📊 Dynamic dashboards & systems<br>
-  💾 SQL Server & Database Design | ⚡ Always exploring new technologies.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+.NET+Developer;C%23+%7C+ASP.NET+Core+%7C+Angular;Clean+Code+%7C+Scalable+Architecture" alt="Typing SVG" />
 </p>
 
-<!-- SOCIAL LINKS with modern shield badges -->
-<h2 align="center" style="color: #e0e0ff;">🤝 Connect with Me 🤝</h2>
+<!-- Animated Banner -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/mahmoud-ali-46b872234"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat&labelColor=0A0A2A&color=6A5ACD" alt="LinkedIn" /></a>
-  <a href="https://www.facebook.com/share/18hKrCWC9n/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&style=flat&labelColor=0A0A2A&color=6A5ACD" alt="Facebook" /></a>
-  <a href="https://www.instagram.com/mahmoud.ali._.2000"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat&labelColor=0A0A2A&color=6A5ACD" alt="Instagram" /></a>
-  <a href="mailto:mahmoua487@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat&labelColor=0A0A2A&color=6A5ACD" alt="Email" /></a>
-  <a href="https://drive.google.com/file/d/1MtxsFC7PmU1SmqxXXi0F-21PZERSX2DI/view"><img src="https://img.shields.io/badge/Download_CV-00C853?style=for-the-badge&logo=google-drive&logoColor=white&style=flat&labelColor=0A0A2A&color=6A5ACD" alt="CV" /></a>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800" alt="banner" />
 </p>
 
-<!-- TECH STACK ICONS (skillicons.dev) with hover glow -->
-<h2 align="center" style="color: #e0e0ff;">🛠️ Tech Stack 🛠️</h2>
-<p align="center">
+---
+
+### 👨‍💻 About Me
+
+I'm a passionate **Full Stack .NET Developer** with a strong focus on building end-to-end web applications. I enjoy translating complex requirements into clean, efficient, and scalable code.
+
+- 🔭 I’m currently working on **Enterprise-Level Web Applications** using **ASP.NET Core** and **Angular**.
+- 🌱 I’m constantly learning and exploring **Microservices Architecture** and **Cloud Technologies (Azure)**.
+- 👯 I’m looking to collaborate on **Open Source .NET Projects**.
+- 📫 How to reach me: **mahmoua487@gmail.com**
+- 📄 Download my CV: **[Click Here](https://drive.google.com/file/d/1MtxsFC7PmU1SmqxXXi0F-21PZERSX2DI/view)**
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mahmoud-ali-46b872234" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.facebook.com/share/18hKrCWC9n/" target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/mahmoud.ali._.2000" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mail:mahmoua487@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+I work with a modern and robust set of technologies to bring ideas to life.
+
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,js,html,css,bootstrap,postman,git,github,visualstudio,vscode,sqlite&perline=7" style="filter: drop-shadow(0 0 10px #6a5acd); transition: filter 0.3s;" onmouseover="this.style.filter='drop-shadow(0 0 20px #00bfff)'" onmouseout="this.style.filter='drop-shadow(0 0 10px #6a5acd)'" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,bootstrap,git,github,postman,visualstudio,vscode,sqlite" />
   </a>
 </p>
 
-<!-- SKILLS SECTION (animated progress bars) -->
-<h2 align="center" style="color: #e0e0ff;">📈 Skills Proficiency 📈</h2>
-<div align="center" style="max-width: 600px; margin: auto;">
-  <div style="width: 100%; margin: 10px 0;"><span style="color:#00bfff;">ASP.NET Core</span> <span style="float:right;">90%</span><div class="skill-bar"><div class="skill-fill" style="--target:90%;"></div></div></div>
-  <div style="width: 100%; margin: 10px 0;"><span style="color:#00bfff;">Angular</span> <span style="float:right;">85%</span><div class="skill-bar"><div class="skill-fill" style="--target:85%;"></div></div></div>
-  <div style="width: 100%; margin: 10px 0;"><span style="color:#00bfff;">C#</span> <span style="float:right;">90%</span><div class="skill-bar"><div class="skill-fill" style="--target:90%;"></div></div></div>
-  <div style="width: 100%; margin: 10px 0;"><span style="color:#00bfff;">TypeScript</span> <span style="float:right;">85%</span><div class="skill-bar"><div class="skill-fill" style="--target:85%;"></div></div></div>
-  <div style="width: 100%; margin: 10px 0;"><span style="color:#00bfff;">JavaScript</span> <span style="float:right;">75%</span><div class="skill-bar"><div class="skill-fill" style="--target:75%;"></div></div></div>
-  <div style="width: 100%; margin: 10px 0;"><span style="color:#00bfff;">HTML & CSS</span> <span style="float:right;">85%</span><div class="skill-bar"><div class="skill-fill" style="--target:85%;"></div></div></div>
-  <div style="width: 100%; margin: 10px 0;"><span style="color:#00bfff;">Bootstrap</span> <span style="float:right;">85%</span><div class="skill-bar"><div class="skill-fill" style="--target:85%;"></div></div></div>
-  <div style="width: 100%; margin: 10px 0;"><span style="color:#00bfff;">SQL Server</span> <span style="float:right;">80%</span><div class="skill-bar"><div class="skill-fill" style="--target:80%;"></div></div></div>
-  <div style="width: 100%; margin: 10px 0;"><span style="color:#00bfff;">Git & GitHub</span> <span style="float:right;">90%</span><div class="skill-bar"><div class="skill-fill" style="--target:90%;"></div></div></div>
-  <div style="width: 100%; margin: 10px 0;"><span style="color:#00bfff;">Postman</span> <span style="float:right;">75%</span><div class="skill-bar"><div class="skill-fill" style="--target:75%;"></div></div></div>
-  <div style="width: 100%; margin: 10px 0;"><span style="color:#00bfff;">VS Code & Visual Studio</span> <span style="float:right;">90%</span><div class="skill-bar"><div class="skill-fill" style="--target:90%;"></div></div></div>
-</div>
+---
 
-<!-- GITHUB STATS + PROFILE VIEWS -->
-<h2 align="center" style="color: #e0e0ff;">📊 GitHub Stats 📊</h2>
+### 📊 GitHub Stats & Activity
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahmoudali-ops&label=Profile%20views&color=6a5acd&style=flat" alt="profile views" style="box-shadow: 0 0 15px #6a5acd;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudali-ops&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudali-ops&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudali-ops&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0A0A2A&title_color=6A5ACD&icon_color=00BFFF&text_color=FFFFFF" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudali-ops&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0A0A2A&title_color=6A5ACD&text_color=FFFFFF" alt="top langs" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudali-ops&theme=midnight-purple&hide_border=true&background=0A0A2A&stroke=6A5ACD&ring=00BFFF&fire=00BFFF&currStreakNum=FFFFFF" alt="GitHub streak" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudali-ops&theme=radical&hide_border=true" alt="GitHub Streak" width="50%" />
 </p>
 
-<!-- FEATURED PROJECTS (animated cards) -->
-<h2 align="center" style="color: #e0e0ff;">🚀 Featured Projects 🚀</h2>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin: 30px 0;">
-  <!-- Card 1 -->
-  <div class="project-card" style="width: 280px; background: rgba(20, 20, 50, 0.9); border-radius: 30px; padding: 20px; border: 2px solid #6a5acd; box-shadow: 0 0 20px #4b0082; transition: 0.3s; backdrop-filter: blur(5px);">
-    <h3 style="color: #00bfff;">🛒 Multi Vendor E-Commerce</h3>
-    <p style="color: #ccc;">ASP.NET Core Web API + Angular + Stripe. Full-featured marketplace with payments.</p>
-    <a href="https://github.com/mahmoudali-ops?tab=repositories" style="color: #e0e0ff; background: #2d2d6a; padding: 8px 20px; border-radius: 50px; text-decoration: none; display: inline-block; box-shadow: 0 0 10px #6a5acd;">🔗 GitHub</a>
-  </div>
-  <!-- Card 2 -->
-  <div class="project-card" style="width: 280px; background: rgba(20, 20, 50, 0.9); border-radius: 30px; padding: 20px; border: 2px solid #6a5acd; box-shadow: 0 0 20px #4b0082; transition: 0.3s; backdrop-filter: blur(5px);">
-    <h3 style="color: #00bfff;">🏥 Clinic Appointment Booking</h3>
-    <p style="color: #ccc;">Full stack booking system with calendar integration, patient management.</p>
-    <a href="https://github.com/mahmoudali-ops?tab=repositories" style="color: #e0e0ff; background: #2d2d6a; padding: 8px 20px; border-radius: 50px; text-decoration: none; display: inline-block; box-shadow: 0 0 10px #6a5acd;">🔗 GitHub</a>
-  </div>
-  <!-- Card 3 -->
-  <div class="project-card" style="width: 280px; background: rgba(20, 20, 50, 0.9); border-radius: 30px; padding: 20px; border: 2px solid #6a5acd; box-shadow: 0 0 20px #4b0082; transition: 0.3s; backdrop-filter: blur(5px);">
-    <h3 style="color: #00bfff;">📚 Student Grades Management</h3>
-    <p style="color: #ccc;">Grade management + statistics + PDF reports. Built with ASP.NET Core & Angular.</p>
-    <a href="https://github.com/mahmoudali-ops?tab=repositories" style="color: #e0e0ff; background: #2d2d6a; padding: 8px 20px; border-radius: 50px; text-decoration: none; display: inline-block; box-shadow: 0 0 10px #6a5acd;">🔗 GitHub</a>
-  </div>
-</div>
-
-<!-- DYNAMIC GIF BANNER (space/tech theme) -->
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZic3R1bmJ4Y3dubXJkMDV4bWl4ZzRleDdwM2R2eTh0ajM0bWU0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" alt="animated coding" width="80%" style="border-radius: 30px; box-shadow: 0 0 40px #6a5acd;" />
-</div>
-
-<!-- FOOTER (with subtle glow) -->
-<p align="center" style="color: #6a5acd; text-shadow: 0 0 5px #00bfff;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=2000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=300&lines=Thanks+for+visiting!;Let's+build+something+great!" alt="footer typing" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoudali-ops&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="GitHub Activity Graph" width="90%" />
 </p>
 
-<!-- Ensure all animations are defined even for older markdown viewers (style block already included) -->
+---
+
+### 🚀 Featured Projects
+
+Here are some of my best works that showcase my skills in full-stack development.
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Multi Vendor E-Commerce Platform</h3>
+      <p align="center">
+        <a href="https://github.com/mahmoudali-ops" target="_blank"><img src="https://img.icons8.com/fluency/96/null/shopping-cart-promotion.png" width="80" alt="Project Icon"/></a>
+        <p align="center">
+          A full-featured e-commerce platform built with <strong>ASP.NET Core Web API</strong> on the backend and <strong>Angular</strong> on the frontend. Features include product management, shopping cart, order processing, and secure payment integration with <strong>Stripe</strong>.
+        </p>
+        <p align="center">
+          <strong>Tech:</strong> ASP.NET Core, Angular, C#, SQL Server, Entity Framework Core, Stripe API
+        </p>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Clinic Appointment Booking System</h3>
+      <p align="center">
+        <a href="https://github.com/mahmoudali-ops" target="_blank"><img src="https://img.icons8.com/fluency/96/null/stethoscope.png" width="80" alt="Project Icon"/></a>
+        <p align="center">
+          A comprehensive booking system for clinics. Patients can view doctor availability and book appointments. Includes role-based access for Admins, Doctors, and Patients.
+        </p>
+        <p align="center">
+          <strong>Tech:</strong> ASP.NET Core MVC, SQL Server, Bootstrap, JavaScript, FullCalendar.js
+        </p>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" colspan="2">
+      <h3 align="center">Student Grades Management System</h3>
+      <p align="center">
+        <a href="https://github.com/mahmoudali-ops" target="_blank"><img src="https://img.icons8.com/fluency/96/null/grade.png" width="80" alt="Project Icon"/></a>
+        <p align="center">
+          A system for managing student grades, generating statistics (averages, distributions), and exporting reports to <strong>PDF</strong>. Built for educators to simplify administrative tasks.
+        </p>
+        <p align="center">
+          <strong>Tech:</strong> ASP.NET Core, C#, SQL Server, iTextSharp/Library for PDF, Chart.js
+        </p>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- Profile Views Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahmoudali-ops&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<!-- Animated Footer -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
+
+<p align="center">
+  Thanks for visiting my profile! Have a great day! 😊
+</p>
