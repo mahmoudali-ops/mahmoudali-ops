@@ -5,71 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+.NET+Developer;C%23+%7C+ASP.NET+Core+%7C+Angular;Clean+Code+%7C+Scalable+Architecture" alt="Typing SVG" />
 </p>
 
-<!-- Animated Banner with Stars and Glow Effect -->
-<div align="center" style="position: relative; width: 800px; margin: 0 auto; border-radius: 15px; overflow: hidden; box-shadow: 0 0 30px rgba(0, 191, 255, 0.5);">
-  <!-- Star Animation Layer -->
-  <div style="position: relative; width: 100%; height: 100%;">
-    <!-- Banner Image -->
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800" alt="banner" style="display: block;" />
-    
-    <!-- Animated Stars Overlay -->
-    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; pointer-events: none; background: radial-gradient(circle at 20% 30%, rgba(255,255,255,0.8) 0%, transparent 2%),
-                radial-gradient(circle at 40% 70%, rgba(255,255,255,0.9) 0%, transparent 3%),
-                radial-gradient(circle at 60% 20%, rgba(255,255,220,0.8) 0%, transparent 2%),
-                radial-gradient(circle at 80% 60%, rgba(255,255,255,0.7) 0%, transparent 3%),
-                radial-gradient(circle at 15% 80%, rgba(255,255,255,0.8) 0%, transparent 2%),
-                radial-gradient(circle at 75% 40%, rgba(255,255,220,0.9) 0%, transparent 2%),
-                radial-gradient(circle at 90% 15%, rgba(255,255,255,0.7) 0%, transparent 2%),
-                radial-gradient(circle at 30% 50%, rgba(255,255,255,0.6) 0%, transparent 3%);
-                animation: twinkling 3s infinite ease-in-out;">
-    </div>
-    
-    <!-- Glowing Effect Overlay -->
-    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; pointer-events: none; background: radial-gradient(circle at 50% 50%, rgba(255,255,255,0.1) 0%, transparent 70%);
-                animation: pulseGlow 4s infinite alternate;">
-    </div>
-  </div>
-</div>
-
-<!-- CSS Animations -->
-<style>
-@keyframes twinkling {
-  0% { opacity: 0.3; transform: scale(1); }
-  50% { opacity: 1; transform: scale(1.1); }
-  100% { opacity: 0.3; transform: scale(1); }
-}
-
-@keyframes pulseGlow {
-  0% { opacity: 0.2; filter: blur(5px); }
-  100% { opacity: 0.6; filter: blur(10px); }
-}
-
-/* Additional floating animation for individual stars */
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-5px); }
-  100% { transform: translateY(0px); }
-}
-</style>
-
-<!-- Add a sparkling effect with CSS pseudo-elements -->
-<div style="position: relative; width: 800px; margin: 20px auto;">
-  <div style="position: absolute; top: -20px; left: -20px; right: -20px; bottom: -20px; background: radial-gradient(circle at 30% 40%, rgba(255,215,0,0.1) 0%, transparent 40%),
-              radial-gradient(circle at 70% 60%, rgba(135,206,250,0.1) 0%, transparent 40%);
-              filter: blur(20px);
-              animation: glowPulse 5s infinite;
-              pointer-events: none;
-              z-index: -1;">
-  </div>
-</div>
-
-<style>
-@keyframes glowPulse {
-  0% { opacity: 0.3; filter: blur(20px); }
-  50% { opacity: 0.8; filter: blur(30px); }
-  100% { opacity: 0.3; filter: blur(20px); }
-}
-</style>
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800" alt="banner" />
+</p>
 
 ---
 
