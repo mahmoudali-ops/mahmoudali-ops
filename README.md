@@ -1,124 +1,102 @@
+# <p align="center">✨ Welcome to my Digital Space! ✨</p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=00F7FF&center=true&width=600&lines=Hi+there+%F0%9F%91%8B,+I'm+Mahmoud+Ali;Full+Stack+.NET+Developer+%F0%9F%92%BB" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=I'm+Mahmoud+Ali;Full+Stack+.NET+Developer;Building+Scalable+Architectures;Turning+Ideas+into+Code" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mahmoud-ali-46b872234">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/share/18hKrCWC9n/">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/mahmoud.ali._.2000">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:mahmoua487@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Full%20Stack%20Developer&fontSize=50&animation=fadeIn&fontAlignY=35" alt="Header Banner" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 🧑‍💻 About Me
 
-Hello! I'm **Mahmoud Ali**, a passionate **Full Stack .NET Developer** 💻.  
-I love building modern, scalable web applications with clean code and best practices. 🚀  
-
-✨ **Highlights:**  
-- 🌐 Full Stack Development (ASP.NET Core + Angular)  
-- 📊 Building dynamic dashboards & systems  
-- 💾 SQL Server & Database Design  
-- ⚡ Always exploring new technologies  
+- 🔭 **Currently working on:** Advanced Microservices and Enterprise-grade .NET applications.
+- ⚡ **Passion:** I bridge the gap between complex backend logic and sleek, responsive frontend interfaces.
+- 🎓 **Focus:** Master of Clean Architecture, Design Patterns, and high-performance Web APIs.
+- 🌍 **Location:** Based in Germany, helping businesses automate and scale.
+- 💼 **Open to:** Exciting collaborations and freelance opportunities.
 
 ---
 
-## 🛠️ Tech Stack
+### 🌐 Connect With Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,angular,csharp,ts,js,html,css,bootstrap,sql,git,github,postman,vscode,visualstudio" />
+<p align="left">
+<a href="https://linkedin.com/in/mahmoud-ali-46b872234" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mahmoud Ali LinkedIn" /></a>
+<a href="https://www.facebook.com/share/18hKrCWC9n/" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Mahmoud Ali Facebook" /></a>
+<a href="https://www.instagram.com/mahmoud.ali._.2000" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Mahmoud Ali Instagram" /></a>
+<a href="mailto:mahmoua487@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mahmoua487@gmail.com" /></a>
+<a href="https://drive.google.com/file/d/1MtxsFC7PmU1SmqxXXi0F-21PZERSX2DI/view" target="blank"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Mahmoud Ali CV" /></a>
 </p>
 
 ---
 
-## 📊 Skills
+### 🚀 My Tech Universe
 
-| Skill | Proficiency |
-|-------|------------|
-| ASP.NET Core | ██████████ 90% |
-| Angular | █████████ 85% |
-| C# | ██████████ 90% |
-| TypeScript | █████████ 85% |
-| JavaScript | ████████ 75% |
-| HTML & CSS | █████████ 85% |
-| Bootstrap | █████████ 85% |
-| SQL Server | █████████ 80% |
-| Git & GitHub | █████████ 90% |
-| Postman | ████████ 75% |
-| VS Code & Visual Studio | █████████ 90% |
-
----
-
-## 🚀 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudali-ops&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudali-ops&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://komarev.com/ghpvc/?username=mahmoudali-ops&style=flat-square&color=blue" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudali-ops&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center" style="display: flex; gap: 20px; flex-wrap: wrap;">
-
-<!-- Project 1 -->
-<div align="left" style="border-radius: 10px; padding: 15px; background: #1e1e2f; width: 300px;">
-  <h3>Multi Vendor E-Commerce</h3>
-  <p>ASP.NET Core Web API + Angular with Stripe payments integration.</p>
-  <a href="https://github.com/mahmoudali-ops/multi-vendor-ecommerce" target="_blank">
-    <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" />
+#### **Frontend & Backend**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,js,html,css,bootstrap&theme=dark" />
   </a>
-</div>
+</p>
 
-<!-- Project 2 -->
-<div align="left" style="border-radius: 10px; padding: 15px; background: #1e1e2f; width: 300px;">
-  <h3>Clinic Booking System</h3>
-  <p>Full stack appointment booking system for clinics with admin & patient dashboards.</p>
-  <a href="https://github.com/mahmoudali-ops/clinic-booking-system" target="_blank">
-    <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" />
+#### **Tools & Databases**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sqlserver,git,github,postman,visualstudio,vscode&theme=dark" />
   </a>
-</div>
-
-<!-- Project 3 -->
-<div align="left" style="border-radius: 10px; padding: 15px; background: #1e1e2f; width: 300px;">
-  <h3>Student Grades Management</h3>
-  <p>Manage student grades, statistics, and generate PDF reports easily.</p>
-  <a href="https://github.com/mahmoudali-ops/student-grades-management" target="_blank">
-    <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" />
-  </a>
-</div>
-
-</div>
-
----
-
-## 🎨 Visual Fun
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="600"/>
 </p>
 
 ---
 
-## 📄 Resume / CV
+### 📊 Proficiency & Skills
 
-[![Download CV](https://img.shields.io/badge/Download_CV-green?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1MtxsFC7PmU1SmqxXXi0F-21PZERSX2DI/view)
+| Skill | Level |
+| :--- | :--- |
+| **ASP.NET Core / C#** | ![Progress](https://geps.dev/progress/95?dangerColor=36BCF7&warningColor=36BCF7&successColor=36BCF7) |
+| **Angular / TypeScript** | ![Progress](https://geps.dev/progress/85?dangerColor=36BCF7&warningColor=36BCF7&successColor=36BCF7) |
+| **SQL Server / Database Design** | ![Progress](https://geps.dev/progress/90?dangerColor=36BCF7&warningColor=36BCF7&successColor=36BCF7) |
+| **Web API / REST Architecture** | ![Progress](https://geps.dev/progress/95?dangerColor=36BCF7&warningColor=36BCF7&successColor=36BCF7) |
 
 ---
 
-✨ Let's build amazing apps together! 🚀
+### 📂 Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[🛒 Multi-Vendor E-Commerce](https://github.com/mahmoudali-ops)** | High-scale marketplace with Stripe integration and dynamic vendor dashboards. | `.NET Core`, `Angular`, `Stripe` |
+| **[🏥 Clinic Appointment System](https://github.com/mahmoudali-ops)** | End-to-end booking platform for healthcare providers with real-time scheduling. | `.NET`, `SQL Server`, `Angular` |
+| **[🎓 Grades Management](https://github.com/mahmoudali-ops)** | Academic tracking system featuring automated PDF report generation and analytics. | `C#`, `ASP.NET`, `PDF.js` |
+
+---
+
+### 📈 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudali-ops&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudali-ops&layout=compact&theme=tokyonight&hide_border=true&align=center" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudali-ops&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📅 Activity Timeline
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoudali-ops&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahmoudali-ops&label=PROFILE+VIEWS&color=36BCF7&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=50&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=20&animation=fadeIn" alt="Footer" />
+</p>
