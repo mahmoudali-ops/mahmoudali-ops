@@ -1,70 +1,124 @@
-<h1 align="center">Hi there, I'm Mahmoud Ali 👋</h1>
-<h3 align="center">Full Stack .NET Developer | Building robust web solutions with ASP.NET Core & Angular</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=00F7FF&center=true&width=600&lines=Hi+there+%F0%9F%91%8B,+I'm+Mahmoud+Ali;Full+Stack+.NET+Developer+%F0%9F%92%BB" alt="Typing SVG"/>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+.NET+Developer;C%23+%7C+ASP.NET+Core+%7C+Angular;Clean+Code+%7C+Scalable+Architecture" alt="Typing SVG" />
-</p>
-
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800" alt="banner" />
-</p>
-
----
-
-### 👨‍💻 About Me
-
-I'm a passionate **Full Stack .NET Developer** with a strong focus on building end-to-end web applications. I enjoy translating complex requirements into clean, efficient, and scalable code.
-
-- 🔭 I’m currently working on **Enterprise-Level Web Applications** using **ASP.NET Core** and **Angular**.
-- 🌱 I’m constantly learning and exploring **Microservices Architecture** and **Cloud Technologies (Azure)**.
-- 👯 I’m looking to collaborate on **Open Source .NET Projects**.
-- 📫 How to reach me: **mahmoua487@gmail.com**
-- 📄 Download my CV: **[Click Here](https://drive.google.com/file/d/1MtxsFC7PmU1SmqxXXi0F-21PZERSX2DI/view)**
-
----
-
-### 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mahmoud-ali-46b872234" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.facebook.com/share/18hKrCWC9n/" target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://www.instagram.com/mahmoud.ali._.2000" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="mail:mahmoua487@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-</p>
-
----
-
-### 🛠️ Tech Stack
-
-I work with a modern and robust set of technologies to bring ideas to life.
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,bootstrap,git,github,postman,visualstudio,vscode,sqlite" />
+  <a href="https://www.linkedin.com/in/mahmoud-ali-46b872234">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/share/18hKrCWC9n/">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/mahmoud.ali._.2000">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:mahmoua487@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats & Activity
+## 👨‍💻 About Me
+
+Hello! I'm **Mahmoud Ali**, a passionate **Full Stack .NET Developer** 💻.  
+I love building modern, scalable web applications with clean code and best practices. 🚀  
+
+✨ **Highlights:**  
+- 🌐 Full Stack Development (ASP.NET Core + Angular)  
+- 📊 Building dynamic dashboards & systems  
+- 💾 SQL Server & Database Design  
+- ⚡ Always exploring new technologies  
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudali-ops&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudali-ops&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudali-ops&theme=radical&hide_border=true" alt="GitHub Streak" width="50%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoudali-ops&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="GitHub Activity Graph" width="90%" />
+  <img src="https://skillicons.dev/icons?i=dotnet,angular,csharp,ts,js,html,css,bootstrap,sql,git,github,postman,vscode,visualstudio" />
 </p>
 
 ---
 
+## 📊 Skills
+
+| Skill | Proficiency |
+|-------|------------|
+| ASP.NET Core | ██████████ 90% |
+| Angular | █████████ 85% |
+| C# | ██████████ 90% |
+| TypeScript | █████████ 85% |
+| JavaScript | ████████ 75% |
+| HTML & CSS | █████████ 85% |
+| Bootstrap | █████████ 85% |
+| SQL Server | █████████ 80% |
+| Git & GitHub | █████████ 90% |
+| Postman | ████████ 75% |
+| VS Code & Visual Studio | █████████ 90% |
+
+---
+
+## 🚀 GitHub Stats
 
 <p align="center">
-  Thanks for visiting my profile! Have a great day! 😊
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudali-ops&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudali-ops&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=mahmoudali-ops&style=flat-square&color=blue" alt="Profile Views" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudali-ops&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center" style="display: flex; gap: 20px; flex-wrap: wrap;">
+
+<!-- Project 1 -->
+<div align="left" style="border-radius: 10px; padding: 15px; background: #1e1e2f; width: 300px;">
+  <h3>Multi Vendor E-Commerce</h3>
+  <p>ASP.NET Core Web API + Angular with Stripe payments integration.</p>
+  <a href="https://github.com/mahmoudali-ops/multi-vendor-ecommerce" target="_blank">
+    <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" />
+  </a>
+</div>
+
+<!-- Project 2 -->
+<div align="left" style="border-radius: 10px; padding: 15px; background: #1e1e2f; width: 300px;">
+  <h3>Clinic Booking System</h3>
+  <p>Full stack appointment booking system for clinics with admin & patient dashboards.</p>
+  <a href="https://github.com/mahmoudali-ops/clinic-booking-system" target="_blank">
+    <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" />
+  </a>
+</div>
+
+<!-- Project 3 -->
+<div align="left" style="border-radius: 10px; padding: 15px; background: #1e1e2f; width: 300px;">
+  <h3>Student Grades Management</h3>
+  <p>Manage student grades, statistics, and generate PDF reports easily.</p>
+  <a href="https://github.com/mahmoudali-ops/student-grades-management" target="_blank">
+    <img src="https://img.shields.io/badge/View_Project-blue?style=for-the-badge&logo=github" />
+  </a>
+</div>
+
+</div>
+
+---
+
+## 🎨 Visual Fun
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="600"/>
+</p>
+
+---
+
+## 📄 Resume / CV
+
+[![Download CV](https://img.shields.io/badge/Download_CV-green?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1MtxsFC7PmU1SmqxXXi0F-21PZERSX2DI/view)
+
+---
+
+✨ Let's build amazing apps together! 🚀
