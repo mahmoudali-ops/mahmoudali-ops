@@ -2,12 +2,15 @@
 <h3 align="center">Full Stack .NET Developer | Building robust web solutions with ASP.NET Core & Angular</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+.NET+Developer;C%23+%7C+ASP.NET+Core+%7C+Angular;Clean+Code+%7C+Scalable+Architecture" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Mahmoud%20Ali&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20.NET%20Developer&descAlignY=60&descAlign=50&fontColor=ffffff" width="100%" alt="Starry Header" />
 </p>
 
-<!-- Animated Banner -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800" alt="banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=2F81F7&center=true&vCenter=true&width=500&lines=Full+Stack+.NET+Developer;C%23+%7C+ASP.NET+Core+%7C+Angular;Clean+Code+%7C+Scalable+Architecture;Exploring+the+Cosmos+of+Code+✨" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MaySora/MaySora/master/assets/starry-night.gif" width="100%" style="border-radius: 15px;" alt="Starry Night" />
 </p>
 
 ---
@@ -30,7 +33,7 @@ I'm a passionate **Full Stack .NET Developer** with a strong focus on building e
   <a href="https://www.linkedin.com/in/mahmoud-ali-46b872234" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.facebook.com/share/18hKrCWC9n/" target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <a href="https://www.instagram.com/mahmoud.ali._.2000" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="mail:mahmoua487@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="mailto:mahmoua487@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
 ---
@@ -66,32 +69,30 @@ I work with a modern and robust set of technologies to bring ideas to life.
 
 ### 🚀 Featured Projects
 
-Here are some of my best works that showcase my skills in full-stack development.
-
 <table>
   <tr>
     <td width="50%">
       <h3 align="center">Multi Vendor E-Commerce Platform</h3>
       <p align="center">
         <a href="https://github.com/mahmoudali-ops" target="_blank"><img src="https://img.icons8.com/fluency/96/null/shopping-cart-promotion.png" width="80" alt="Project Icon"/></a>
-        <p align="center">
-          A full-featured e-commerce platform built with <strong>ASP.NET Core Web API</strong> on the backend and <strong>Angular</strong> on the frontend. Features include product management, shopping cart, order processing, and secure payment integration with <strong>Stripe</strong>.
-        </p>
-        <p align="center">
-          <strong>Tech:</strong> ASP.NET Core, Angular, C#, SQL Server, Entity Framework Core, Stripe API
-        </p>
+      </p>
+      <p align="center">
+        A full-featured e-commerce platform built with <strong>ASP.NET Core Web API</strong> and <strong>Angular</strong>. Includes Stripe integration.
+      </p>
+      <p align="center">
+        <strong>Tech:</strong> .NET Core, Angular, SQL Server, EF Core, Stripe
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Clinic Appointment Booking System</h3>
+      <h3 align="center">Clinic Appointment System</h3>
       <p align="center">
         <a href="https://github.com/mahmoudali-ops" target="_blank"><img src="https://img.icons8.com/fluency/96/null/stethoscope.png" width="80" alt="Project Icon"/></a>
-        <p align="center">
-          A comprehensive booking system for clinics. Patients can view doctor availability and book appointments. Includes role-based access for Admins, Doctors, and Patients.
-        </p>
-        <p align="center">
-          <strong>Tech:</strong> ASP.NET Core MVC, SQL Server, Bootstrap, JavaScript, FullCalendar.js
-        </p>
+      </p>
+      <p align="center">
+        Comprehensive booking system with role-based access for Admins, Doctors, and Patients.
+      </p>
+      <p align="center">
+        <strong>Tech:</strong> ASP.NET Core MVC, SQL Server, Bootstrap, FullCalendar.js
       </p>
     </td>
   </tr>
@@ -100,12 +101,12 @@ Here are some of my best works that showcase my skills in full-stack development
       <h3 align="center">Student Grades Management System</h3>
       <p align="center">
         <a href="https://github.com/mahmoudali-ops" target="_blank"><img src="https://img.icons8.com/fluency/96/null/grade.png" width="80" alt="Project Icon"/></a>
-        <p align="center">
-          A system for managing student grades, generating statistics (averages, distributions), and exporting reports to <strong>PDF</strong>. Built for educators to simplify administrative tasks.
-        </p>
-        <p align="center">
-          <strong>Tech:</strong> ASP.NET Core, C#, SQL Server, iTextSharp/Library for PDF, Chart.js
-        </p>
+      </p>
+      <p align="center">
+        System for managing grades, generating statistics, and exporting reports to <strong>PDF</strong>.
+      </p>
+      <p align="center">
+        <strong>Tech:</strong> ASP.NET Core, C#, SQL Server, iTextSharp, Chart.js
       </p>
     </td>
   </tr>
@@ -113,12 +114,10 @@ Here are some of my best works that showcase my skills in full-stack development
 
 ---
 
-<!-- Profile Views Badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahmoudali-ops&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<!-- Animated Footer -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
