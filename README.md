@@ -1,42 +1,103 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=husseinadel7&label=Profile%20views&color=0e75b6&style=flat" alt="husseinadel7" /> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mahmoudali-ops&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
-<h1 align="center">
-  <span style="color: red;">Hi 👋, I'm Mahmoud Ali</span>
-</h1>
-<h2 align="center">Full Stack .Net Developer </h2>
+<h1 align="center">Hi 👋, I'm Mahmoud Ali</h1>
+<h3 align="center">Full Stack .NET Developer | ASP.NET Core | Angular | SQL Server</h3>
 
-<br>
-<img  align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/ocDxgE43TxdsFRRlR1/giphy.gif?cid=ecf05e471p9xzuow3a40by4m995ulirzazu8qttnox03m106&ep=v1_gifs_related&rid=giphy.gif&ct=g"> 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+.NET+Developer;ASP.NET+Core+Developer;Angular+Frontend+Developer;Building+Scalable+Web+Applications&center=true&width=500&height=45">
+</p>
 
+---
 
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<h1 align="left">About Me </h1>
+## 👨‍💻 About Me
 
-- 🌱 I’m a ***Full Stack .NET Developer***
+- 🚀 Full Stack Developer specialized in **.NET & Angular**
+- 💬 Ask me about **ASP.NET Core, Web APIs, Angular, SQL Server**
+- 🧠 Passionate about **Clean Architecture & Design Patterns**
+- 📚 Currently learning **System Design & Microservices**
 
-- 💬 Ask me about **Full Stack Development**
+🔗 **All My Projects**  
+https://github.com/mahmoudali-ops?tab=repositories
 
-- 👨‍💻 All of my projects are available at  [Check Them Out ](https://github.com/mahmoudali-ops?tab=repositories)
+📄 **My CV**  
+https://drive.google.com/file/d/1MtxsFC7PmU1SmqxXXi0F-21PZERSX2DI/view
 
-- 📝 I regularly write articles on [Check Them Out ](https://husseinadel7.github.io/huss3del.github.io/categories/#blogss)
+📫 **Email**  
+mahmoua487@gmail.com
 
-- 📫 How to reach me **mahmoua487@gmail.com**
+---
 
-- 📄 Know about my experiences ( My CV )==> [Check It Out ](https://drive.google.com/file/d/1MtxsFC7PmU1SmqxXXi0F-21PZERSX2DI/view?usp=drive_link)
-<br>
-<h1 align="left">Connect With Me </h1>
+# 🌐 Connect With Me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/mahmoud-ali-46b872234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussein-adel-b46783280" height="30" width="40" /></a>
-<a href=https://www.facebook.com/share/18hKrCWC9n/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hussein.adel.75641" height="30" width="40" /></a>
-<a href=https://www.instagram.com/mahmoud.ali._.2000?igsh=MW45OXFqNGlzMm9iNQ== target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hussein.adel7" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/mahmoud-ali-46b872234" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://www.facebook.com/share/18hKrCWC9n/" target="blank">
+<img src="https://skillicons.dev/icons?i=facebook" height="40"/>
+</a>
+
+<a href="https://www.instagram.com/mahmoud.ali._.2000" target="blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
 
 </p>
 
+---
 
-<br>
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <h1>Most Used Languages</h1>
-    <img align="left" src="https://private-user-images.githubusercontent.com/84356407/255380666-29216033-4bed-48d9-99f6-c5774e6d3665.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI2NzYzMjQsIm5iZiI6MTc1MjY3NjAyNCwicGF0aCI6Ii84NDM1NjQwNy8yNTUzODA2NjYtMjkyMTYwMzMtNGJlZC00OGQ5LTk5ZjYtYzU3NzRlNmQzNjY1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzE2VDE0MjcwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRlMGE2ZjQ4NmJjMWUwODQ5NjI1MWI4OGY1M2IxZTg5OGJhNmUzNWI2MDM1MWNlMTI3YjhlZDZjOTgxOGRjY2YmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.j_Ysu6fmKdHJxMW4WMaCf2pNupd2RK8zgySMCVLQlL8" />
+# 🚀 Tech Stack
 
+<p align="center">
 
-</div>
+<img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,js,html,css,bootstrap" />
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,visualstudio,vscode" />
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mahmoudali-ops&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudali-ops&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudali-ops&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+### 🛒 Multi Vendor E-Commerce Platform
+ASP.NET Core Web API + Angular + Stripe Payment Integration.
+
+### 🏥 Clinic Appointment Booking System
+Full stack system for managing doctors, bookings, and schedules.
+
+### 🎓 Student Grades Management System
+System for managing student grades, statistics, and reports.
+
+---
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoudali-ops&theme=tokyo-night"/>
+</p>
