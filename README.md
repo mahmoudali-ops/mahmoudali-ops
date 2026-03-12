@@ -1,16 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 10" width="100%" height="10">
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00ffaa" stop-opacity="1">
-        <animate attributeName="stop-color" values="#00ffaa; #ff6b6b; #00ffaa" dur="5s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="50%" stop-color="#ff6b6b" stop-opacity="1">
-        <animate attributeName="stop-color" values="#ff6b6b; #00ffaa; #ff6b6b" dur="5s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="100%" stop-color="#00ffaa" stop-opacity="1">
-        <animate attributeName="stop-color" values="#00ffaa; #ff6b6b; #00ffaa" dur="5s" repeatCount="indefinite" />
-      </stop>
-    </linearGradient>
-  </defs>
-  <rect width="800" height="10" fill="url(#grad)" />
-</svg> 
+<div align="center">
+  
+<!-- Space Header with Animated Stars -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahmoudali-ops/mahmoudali-ops/main/assets/space-header-dark.svg">
+  <img src="https://raw.githubusercontent.com/mahmoudali-ops/mahmoudali-ops/main/assets/space-header-light.svg" width="100%" alt="Space Header with animated stars">
+</picture>
+
+<!-- Animated Greeting with Typing Effect -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=700&color=00FFFF&center=true&vCenter=true&random=false&width=600&height=80&lines=Hi+there%2C+I'm+Mahmoud+Ali+%F0%9F%91%8A;Full+Stack+.NET+Developer+%F0%9F%92%BB;ASP.NET+Core+%7C+Angular+%7C+Azure;10%2B+Projects+Delivered+%F0%9F%9A%80" alt="Typing Animation" />
+</a>
+
+<!-- Floating Astronaut Animation -->
+<img src="https://raw.githubusercontent.com/mahmoudali-ops/mahmoudali-ops/main/assets/astronaut-float.gif" width="150" alt="Floating Astronaut">
+
+</div>
+
+<!-- Shooting Stars Animation (multiple) -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mahmoudali-ops/mahmoudali-ops/main/assets/shooting-star-1.gif" width="80" alt="shooting star">
+  <img src="https://raw.githubusercontent.com/mahmoudali-ops/mahmoudali-ops/main/assets/shooting-star-2.gif" width="60" alt="shooting star">
+  <img src="https://raw.githubusercontent.com/mahmoudali-ops/mahmoudali-ops/main/assets/shooting-star-3.gif" width="100" alt="shooting star">
+</div>
+
+---
+
+<!-- Animated Section Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## <img src="https://raw.githubusercontent.com/mahmoudali-ops/mahmoudali-ops/main/assets/rocket.gif" width="35" height="35"> About Me
+
+<div align="center">
+  
+```csharp
+class MahmoudAli : FullStackDeveloper
+{
+    public string Name = "Mahmoud Ali";
+    public string Role = "Full Stack .NET Developer";
+    public string[] Skills = { 
+        "C#", "ASP.NET Core", "Angular", 
+        "TypeScript", "SQL Server", "Azure" 
+    };
+    public string CurrentFocus = "Microservices Architecture";
+    public string FunFact = "I debug with music and coffee! ☕";
+    
+    public string SayHello()
+    {
+        return "Thanks for stopping by! Let's build something amazing together! 🚀";
+    }
+}
