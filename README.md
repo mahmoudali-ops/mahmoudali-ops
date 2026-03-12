@@ -25,13 +25,12 @@ I'm a passionate **Full Stack .NET Developer** with a strong focus on building e
 ---
 
 ### 🤝 Connect with Me
-
 <p align="center">
   <!-- لينكد إن -->
   <a href="https://www.linkedin.com/in/mahmoud-ali-46b872234" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp; <!-- مسافة -->
+  &nbsp;&nbsp;
   
   <!-- فيسبوك -->
   <a href="https://www.facebook.com/share/18hKrCWC9n/" target="_blank">
@@ -45,7 +44,13 @@ I'm a passionate **Full Stack .NET Developer** with a strong focus on building e
   </a>
   &nbsp;&nbsp;
   
-  <!-- جيميل (تم تعديل الرابط) -->
+  <!-- واتساب (مضاف جديد) -->
+  <a href="https://wa.me/201234567890" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  &nbsp;&nbsp;
+  
+  <!-- جيميل -->
   <a href="mailto:mahmoua487@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
