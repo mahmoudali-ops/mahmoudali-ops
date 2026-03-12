@@ -13,4 +13,4 @@
     </linearGradient>
   </defs>
   <rect width="800" height="10" fill="url(#grad)" />
-</svg>
+</svg> 
