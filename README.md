@@ -26,30 +26,29 @@ I'm a passionate **Full Stack .NET Developer** with a strong focus on building e
 
 ### 🤝 Connect with Me
 
-<h2 align="center">🌐 Connect With Me</h2>
-
 <p align="center">
-
-<a href="https://www.linkedin.com/in/mahmoud-ali-46b872234/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Mahmoud%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/share/18hKrCWC9n/" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-Mahmoud%20Ali-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/mahmoud.ali._.2000" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-mahmoud.ali._.2000-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:mahmoua487@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-mahmoua487%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/201122625028" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-01122625028-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
+  <!-- لينكد إن -->
+  <a href="https://www.linkedin.com/in/mahmoud-ali-46b872234" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp; <!-- مسافة -->
+  
+  <!-- فيسبوك -->
+  <a href="https://www.facebook.com/share/18hKrCWC9n/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  &nbsp;&nbsp;
+  
+  <!-- انستجرام -->
+  <a href="https://www.instagram.com/mahmoud.ali._.2000" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;
+  
+  <!-- جيميل (تم تعديل الرابط) -->
+  <a href="mailto:mahmoua487@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 ---
 
