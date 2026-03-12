@@ -118,18 +118,24 @@ Here are some of my best works that showcase my skills in full-stack development
     </td>
   </tr>
   <tr>
-    <td width="50%" colspan="2">
-      <h3 align="center">Student Grades Management System</h3>
-      <p align="center">
-        <a href="https://github.com/mahmoudali-ops" target="_blank"><img src="https://img.icons8.com/fluency/96/null/grade.png" width="80" alt="Project Icon"/></a>
-        <p align="center">
-          A system for managing student grades, generating statistics (averages, distributions), and exporting reports to <strong>PDF</strong>. Built for educators to simplify administrative tasks.
-        </p>
-        <p align="center">
-          <strong>Tech:</strong> ASP.NET Core, C#, SQL Server, iTextSharp/Library for PDF, Chart.js
-        </p>
-      </p>
-    </td>
+ <td width="50%" colspan="2">
+  <h3 align="center">🎓 Student Grades Management System</h3>
+  
+  <p align="center">
+    <a href="https://github.com/mahmoudali-ops" target="_blank">
+      <img src="https://img.icons8.com/fluency/96/report-card.png" width="90" alt="Student Grades System"/>
+    </a>
+  </p>
+
+  <p align="center">
+    A system for managing student grades, calculating results, generating statistics, and exporting reports to <strong>PDF</strong>.
+  </p>
+
+  <p align="center">
+    <strong>Tech:</strong> ASP.NET Core, C#, SQL Server, Chart.js, iTextSharp
+  </p>
+
+</td>
   </tr>
 </table>
 
