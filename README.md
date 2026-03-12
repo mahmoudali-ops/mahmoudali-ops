@@ -21,7 +21,17 @@ I'm a passionate **Full Stack .NET Developer** with a strong focus on building e
 - 👯 I’m looking to collaborate on **Open Source .NET Projects**.
 - 📫 How to reach me: **mahmoua487@gmail.com**
 - 📄 Download my CV: **[Click Here](https://drive.google.com/file/d/1MtxsFC7PmU1SmqxXXi0F-21PZERSX2DI/view)**
-
+<p align="left">
+  <a href="mailto:mahmoua487@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mahmoua487%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mahmoud-ali-46b872234/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mahmoud%20Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/201122625028">
+    <img src="https://img.shields.io/badge/WhatsApp-01122625028-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
 ---
 
 ### 🤝 Connect with Me
