@@ -1,77 +1,48 @@
-<h1 align="center">Hi there, I'm Mahmoud Ali 👋</h1>
-<h3 align="center">Full Stack .NET Developer | Building robust web solutions with ASP.NET Core & Angular</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=600&lines=👨‍🚀+Mahmoud+Ali;Full+Stack+.NET+Developer;Building+in+the+Digital+Universe;ASP.NET+Core+%7C+Angular+%7C+C%23" alt="Typing SVG" />
+</div>
 
-<!-- Animated Space Background -->
+<!-- متحركات الفضاء والنجوم -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" alt="Footer" />
+  
+  <!-- GIF متحرك للفضاء -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Space Animation" />
+</div>
+
+<!-- كواكب متحركة دوارة -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="700" alt="Animated Space" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2IyY3p0cXg3bXVjc3p4a3N1dG5kY3J6eG1lNnV4cGJ0eWt0bmdzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7abB06u9bNzA8LC8/giphy.gif" width="80" alt="Earth" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhmb3l3N3RnbDRhMTRiN2dmbzA2d2o4cXh5b3N6dHBhMXl6bWV6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HlNaQ6g6YpFxkH2/giphy.gif" width="80" alt="Saturn" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZidHVpeHlwNXZzY3Z4c2I0b2prc3V6eHp4bmF3d2xteTZya3NzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HlTy9x8FZo0lQNO/giphy.gif" width="80" alt="Jupiter" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZncTl0aDA1dG1wY3N2YTh6eGJkYzB2d2JvN2V1aGx0c3Z1d2FhdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7abldj0b3rxrZUfW/giphy.gif" width="80" alt="Mars" />
 </p>
 
----
-
-### 👨‍💻 About Me
-
-I'm a passionate **Full Stack .NET Developer** focused on building **end-to-end web applications** with clean, scalable code.
-
-- 🔭 Currently working on **Enterprise-Level Web Apps** using **ASP.NET Core & Angular**
-- 🌱 Learning **Microservices** & **Azure Cloud**
-- 👯 Collaborating on **Open Source .NET Projects**
-- 📫 Reach me: **mahmoua487@gmail.com**
-- 📄 CV: **[Click Here](https://drive.google.com/file/d/1MtxsFC7PmU1SmqxXXi0F-21PZERSX2DI/view)**
-
----
-
-### 🌌 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mahmoud-ali-46b872234" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.facebook.com/share/18hKrCWC9n/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/mahmoud.ali._.2000" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:mahmoua487@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,bootstrap,git,github,postman,visualstudio,vscode,sqlite" />
-  </a>
-</p>
-
----
-
-### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Multi Vendor E-Commerce Platform</h3>
-      <p align="center">
-        <a href="https://github.com/mahmoudali-ops" target="_blank"><img src="https://img.icons8.com/fluency/96/null/shopping-cart-promotion.png" width="80"/></a>
-        <p align="center">
-          Full-featured e-commerce platform with ASP.NET Core & Angular, Stripe integration.
-        </p>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Clinic Appointment Booking System</h3>
-      <p align="center">
-        <a href="https://github.com/mahmoudali-ops" target="_blank"><img src="https://img.icons8.com/fluency/96/null/stethoscope.png" width="80"/></a>
-        <p align="center">
-          Manage appointments with role-based access for admins, doctors, and patients.
-        </p>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
+<!-- خط فاصل نجمي -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
-<p align="center">
-  Thanks for visiting my profile! 🌌🚀
-</p>
+---
+
+### 👨‍🚀 About Me - Mission Control
+
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFvaXBpNXAwN3phbjVha3I4ZzF0YzJ6b3R1dm9rM2Z5eGplb propertyss20bSZ&ep=v1_gifs_search&rid=giphy.gif&ct=s" width="300" alt="Astronaut coding"/>
+
+```csharp
+public class MahmoudAli : IDeveloper
+{
+    public string Name { get; set; } = "Mahmoud Ali";
+    public string Role { get; set; } = "Full Stack .NET Developer";
+    public string[] Skills { get; set; } = 
+    {
+        "C#", "ASP.NET Core", "Angular", 
+        "SQL Server", "Entity Framework", "REST APIs"
+    };
+    
+    public string CurrentMission() 
+        => "Building Enterprise-Level Web Applications";
+    
+    public string Exploring() 
+        => "Microservices Architecture & Azure Cosmos";
+}
