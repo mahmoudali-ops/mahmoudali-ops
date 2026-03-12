@@ -1,100 +1,128 @@
 <h1 align="center">Hi there, I'm Mahmoud Ali 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=1000&color=A97CF8&center=true&vCenter=true&width=500&lines=Full+Stack+.NET+Developer;Building+Scalable+Solutions;C%23+%7C+ASP.NET+Core+%7C+Angular" alt="Typing SVG" />
-</p>
+<h3 align="center">Full Stack .NET Developer | Building robust web solutions with ASP.NET Core & Angular</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B0E14&height=200&section=header&text=Exploring%20the%20Digital%20Cosmos&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+.NET+Developer;C%23+%7C+ASP.NET+Core+%7C+Angular;Clean+Code+%7C+Scalable+Architecture" alt="Typing SVG" />
 </p>
 
+<!-- Animated Banner -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa273-3913-431d-9073-100237fa9d96.gif" width="100%" alt="Twinkling Stars and Orbiting Planets" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700" alt="banner" />
 </p>
 
 ---
 
-### 🌌 Mission Logs (About Me)
+### 👨‍💻 About Me
 
-I am a **Full Stack .NET Developer** navigating the vast universe of software architecture. My mission is to build robust, high-performance web solutions using modern technologies.
+I'm a passionate **Full Stack .NET Developer** with a strong focus on building end-to-end web applications. I enjoy translating complex requirements into clean, efficient, and scalable code.
 
-* **🔭 Current Sector:** Working on **Enterprise-Level Web Applications** with **ASP.NET Core** and **Angular**.
-* **🌱 Researching:** Exploring **Microservices Architecture**, **n8n Automation**, and **Cloud Systems**.
-* **👯 Alliance:** Looking to collaborate on **Open Source .NET Projects**.
-* **📫 Signal:** **mahmoua487@gmail.com**
-* **📄 Briefing:** **[Download My CV](https://drive.google.com/file/d/1MtxsFC7PmU1SmqxXXi0F-21PZERSX2DI/view)**
+- 🔭 I’m currently working on **Enterprise-Level Web Applications** using **ASP.NET Core** and **Angular**.
+- 🌱 I’m constantly learning and exploring **Microservices Architecture** and **Cloud Technologies (Azure)**.
+- 👯 I’m looking to collaborate on **Open Source .NET Projects**.
+- 📫 How to reach me: **mahmoua487@gmail.com**
+- 📄 Download my CV: **[Click Here](https://drive.google.com/file/d/1MtxsFC7PmU1SmqxXXi0F-21PZERSX2DI/view)**
 
 ---
 
-### 🛠️ Tech Constellation
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mahmoud-ali-46b872234" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.facebook.com/share/18hKrCWC9n/" target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/mahmoud.ali._.2000" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mail:mahmoua487@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+I work with a modern and robust set of technologies to bring ideas to life.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,bootstrap,git,github,postman,visualstudio,vscode,sqlite,azure&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,bootstrap,git,github,postman,visualstudio,vscode,sqlite" />
   </a>
 </p>
 
 ---
 
-### 📊 Galactic Activity
+### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudali-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudali-ops&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudali-ops&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudali-ops&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudali-ops&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudali-ops&theme=radical&hide_border=true" alt="GitHub Streak" width="50%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoudali-ops&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="GitHub Activity Graph" width="90%" />
 </p>
 
 ---
 
-### 🚀 Featured Satellites (Projects)
+### 🚀 Featured Projects
 
-<table border="0">
+Here are some of my best works that showcase my skills in full-stack development.
+
+<table>
   <tr>
-    <td width="50%" align="center">
-      <img src="https://img.icons8.com/fluency/96/null/rocket.png" width="60"/><br/>
-      <strong>Multi-Vendor E-Commerce</strong>
-      <p>Scalable platform with Stripe integration and Angular frontend.</p>
+    <td width="50%">
+      <h3 align="center">Multi Vendor E-Commerce Platform</h3>
+      <p align="center">
+        <a href="https://github.com/mahmoudali-ops" target="_blank"><img src="https://img.icons8.com/fluency/96/null/shopping-cart-promotion.png" width="80" alt="Project Icon"/></a>
+        <p align="center">
+          A full-featured e-commerce platform built with <strong>ASP.NET Core Web API</strong> on the backend and <strong>Angular</strong> on the frontend. Features include product management, shopping cart, order processing, and secure payment integration with <strong>Stripe</strong>.
+        </p>
+        <p align="center">
+          <strong>Tech:</strong> ASP.NET Core, Angular, C#, SQL Server, Entity Framework Core, Stripe API
+        </p>
+      </p>
     </td>
-    <td width="50%" align="center">
-      <img src="https://img.icons8.com/fluency/96/null/hospital.png" width="60"/><br/>
-      <strong>Clinic Booking System</strong>
-      <p>Role-based scheduling system for doctors and patients.</p>
+    <td width="50%">
+      <h3 align="center">Clinic Appointment Booking System</h3>
+      <p align="center">
+        <a href="https://github.com/mahmoudali-ops" target="_blank"><img src="https://img.icons8.com/fluency/96/null/stethoscope.png" width="80" alt="Project Icon"/></a>
+        <p align="center">
+          A comprehensive booking system for clinics. Patients can view doctor availability and book appointments. Includes role-based access for Admins, Doctors, and Patients.
+        </p>
+        <p align="center">
+          <strong>Tech:</strong> ASP.NET Core MVC, SQL Server, Bootstrap, JavaScript, FullCalendar.js
+        </p>
+      </p>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <img src="https://img.icons8.com/fluency/96/null/graduation-cap.png" width="60"/><br/>
-      <strong>Student Grades Management</strong>
-      <p>Administrative tool with automated PDF reporting.</p>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://img.icons8.com/color/96/null/barber-chair.png" width="60" style="filter: grayscale(100%);"/><br/>
-      <strong>QNow Booking App</strong>
-      <p>A specialized appointment solution for grooming services (In Progress).</p>
+    <td width="50%" colspan="2">
+      <h3 align="center">Student Grades Management System</h3>
+      <p align="center">
+        <a href="https://github.com/mahmoudali-ops" target="_blank"><img src="https://img.icons8.com/fluency/96/null/grade.png" width="80" alt="Project Icon"/></a>
+        <p align="center">
+          A system for managing student grades, generating statistics (averages, distributions), and exporting reports to <strong>PDF</strong>. Built for educators to simplify administrative tasks.
+        </p>
+        <p align="center">
+          <strong>Tech:</strong> ASP.NET Core, C#, SQL Server, iTextSharp/Library for PDF, Chart.js
+        </p>
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🤝 Establishing Contact
+<!-- Profile Views Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahmoudali-ops&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mahmoud-ali-46b872234" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.facebook.com/share/18hKrCWC9n/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="mail:mahmoua487@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<!-- Animated Footer -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahmoudali-ops&label=Orbiting%20Visitors&color=785ef0&style=flat-square" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-</p>
-
-<p align="center">
-  <i>Safe travels through the code! ✨🚀</i>
+  Thanks for visiting my profile! Have a great day! 😊
 </p>
